@@ -8,7 +8,7 @@
 
 ### Sobre Mim
 
-Sou um desenvolvedor baseado em Brasília/DF, graduado em Análise e Desenvolvimento de Sistemas e cursando Ciência da Computação no UniCEUB. Meu foco está no desenvolvimento Web e Back-end, atualmente buscando oportunidades como Estágio ou Desenvolvedor Júnior.
+Sou um desenvolvedor atualmente em Brasília/DF, graduado em Análise e Desenvolvimento de Sistemas e cursando Ciência da Computação no UniCEUB. Meu foco está no desenvolvimento Web e Back-end, buscando oportunidades como Estágio ou Desenvolvedor Júnior.
 
 * **Foco Técnico:** Desenvolvimento de sistemas e APIs utilizando Python (Django), Java, C# e bancos de dados SQL.
 * **Histórico Esportivo:** Fui atleta de natação de alto rendimento por 12 anos pelo Iate Clube de Brasília, experiência que desenvolveu minha disciplina, foco e resiliência para resolver problemas complexos.
