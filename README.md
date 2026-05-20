@@ -1,7 +1,7 @@
 # Hi, I'm VH! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZainote&layout=compact&langs_count=5&theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VictorZainote&layout=compact&langs_count=5&theme=dracula" alt="Grafico de linguagens" />
 </div>
 
 ---
